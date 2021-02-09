@@ -1,5 +1,5 @@
 # goflow
-A router firmware written in Go
+A router firmware written in rust
 
 ## Components
 
